@@ -1,2 +1,5 @@
 *.bak
 *-cache.lib
+*~
+*.pdf
+*.ods

@@ -1,3 +1,18 @@
-EESchema-DOCLIB  Version 2.0  Date: Mi 11 Nov 2015 18:49:03 CET
+EESchema-DOCLIB  Version 2.0  Date: Do 12 Nov 2015 22:40:36 CET
+#
+$CMP CONN_8
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP DIN_5
+D Connecteur Din 5 broches
+K CONN DIN
+$ENDCMP
+#
+$CMP DIN_5_MIDI
+D Connecteur Din 5 broches
+K CONN DIN
+$ENDCMP
 #
 #End Doc Library
